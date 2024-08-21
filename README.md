@@ -8,12 +8,24 @@
 - 👩🏽‍🎓 Mis licencias y certificaciones tech son: Python para Analisis de Datos, Data Analytics, Introduccion a Bases de datos y SQL, Desarrollo Web .
 - 💻 Actualmente estoy finalizando la carrera de Data Science en Soy Henry.
 
-🛠  Technical skills Data Science.
-- 💻 Python, SQL.
-- 📖 Pandas, Seaborn, Matplotlib, FastAPI, Render.
-- 💹 PowerBI
-- 🧰 GitHub, Visual Studio Code.
+
+   
+🛠  Technical skills Data Science  
+
+(Las imagenes son clickeables, para mas informacion).  
+
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" /></a>  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-%2370399F.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" /></a>  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /></a>  
 
 
-👉🏽 Este es mi perfil en LinkedIn: 👈🏽 
-https://www.linkedin.com/in/rociomarquezz/
+
+
+👉🏽 Este es mi perfil en LinkedIn: 👈🏽  
+
+
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/rociomarquezz/)
+
+
+
+
+
+
